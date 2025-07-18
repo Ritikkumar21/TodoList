@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    --tw-bg-opacity:1;
+    background-color: rgba(9, 14, 62, 0.781);
+    
+}
